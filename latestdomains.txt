@@ -1,0 +1,51 @@
+#######################################################################
+# The list contains uniques domains collected over                    #
+# the last 7 days by OSINT.digitalside.it                             #
+# The list is released without any warranty to the end users.         #
+# INFO: info@digitalside.it                                           #
+# PGP key ID: 30B31BDA                                                #
+# PGP fingerprint: 0B4C F801 E8FF E9A3 A602  D2C7 9C36 93B2 30B3 1BDA #
+# Every link reported should be considered harmefull and should       #
+# result in an unwanted malware download. Use this file carefully    #
+# Generated at: 2021-11-14 16:55:04                                   #
+#######################################################################
+alimentostolten.cl
+annahartmann.fun
+antivirf.ru
+baracuda.pw
+binatonezx.tk
+bot.nekololi.cc
+camisasel.com
+cnc.ecstasycode.de
+cq15758.tmweb.ru
+cy08517.tmweb.ru
+downloads.dd.com.mt
+enroberts.com
+file-file-host6.com
+file-host-host6.com
+host-file-host0.com
+host-host-file6.com
+in-softs.com
+kizitox.ga
+nevermiss.su
+niggerson.loan
+perspectivimmo.com
+presco.ml
+privacytoolzforyou-7000.top
+reviewhowed.com
+rga-il.com
+samsung-tv.tk
+semlats.com
+static-201-163-99-83.alestra.net.mx
+storewel.com
+swoofliasyllenesliopa.com
+thriveparrad.com
+verbmcmahond.com
+www.dynatech-int.com
+www.sriva.com.mx
+www.studiomacdesign.it
+x.233sy.cn
+xetdyf17.top
+xetiet09.top
+xetpuy16.top
+xetzpo06.top
